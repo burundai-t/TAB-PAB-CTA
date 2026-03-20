@@ -40,3 +40,4 @@ This code is intended as a computational verification artifact for a finite alge
 
 ## Associated paper
 The accompanying paper is published separately. This repository contains the code artifact used to verify the corresponding Appendix C claims.
+https://doi.org/10.5281/zenodo.19140427
